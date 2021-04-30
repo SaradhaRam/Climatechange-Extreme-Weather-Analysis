@@ -1,1 +1,1 @@
-Raw Source files are over 50mb for each year. Not included to save space.
+Raw Source files are over 50mb for each year. Added to gitignore to save space.
