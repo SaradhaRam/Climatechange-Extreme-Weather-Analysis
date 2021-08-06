@@ -1,4 +1,4 @@
-# project_1
+# Is climate change correlated with extreme weather events? - Analysis 
 
 Weather DataMembers: John Gotz, Sara Ram, Joe Sellner, Guy BssoumeMain Question: Is climate change correlated with extreme weather events?
 
